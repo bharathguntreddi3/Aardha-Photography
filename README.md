@@ -1,6 +1,6 @@
 # Aardha-Photography
 
-[Aardha-photography](https://bitbucket.org/bharathguntreddi/aardha_photography/src/master/)
+check our site 👉 [Aardha-photography](https://aardha-photography.herokuapp.com/)
 
 ### Made with [NicePage](https://nicepage.com/) 🤞
 
